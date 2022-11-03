@@ -1,0 +1,3 @@
+here, a class has been created for the buildImage function inside src/com/example.
+It can be done without the class too like buildJar.example
+the reason for building classes is to have multiple methods for storing repetitive code etc. also, build*.groovy only supports one function call().
